@@ -305,7 +305,7 @@ nav h1 a {
   margin: 0 0 30px;
   overflow: hidden;
   padding: 0 20px 20px;
-  position: relative;
+  position: below;
   width: 85%;
 }
 #reviews-list li p {
